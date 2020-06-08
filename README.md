@@ -1,5 +1,8 @@
 <p align="center">
-  do it...
+  do it.
+  1.支持全局模块
+  2.支持共享模块
+  
 </p>
  
 
