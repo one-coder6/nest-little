@@ -5,4 +5,8 @@ export class AppService {
   getHello(): string {
     return 'Hello World!';
   }
+
+  getDefault(): any {
+    return [{ name: 'mr.one' }];
+  }
 }
